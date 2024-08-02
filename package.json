@@ -1,0 +1,24 @@
+{
+  "name": "realtime-device-track-practice",
+  "version": "1.0.0",
+  "description": "This project implements a real-time device tracking map using Node.js, Express, and Socket.io. The application allows users to visualize the location of devices on a map in real time, making it ideal for applications such as fleet management, delivery tracking, or personal device monitoring.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarikeshKS/Realtime-device-track-practice.git"
+  },
+  "author": "Harikesh Kumar Sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HarikeshKS/Realtime-device-track-practice/issues"
+  },
+  "homepage": "https://github.com/HarikeshKS/Realtime-device-track-practice#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
