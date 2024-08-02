@@ -31,8 +31,8 @@ Make sure you have the following installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/realtime-device-tracking-map.git
-   cd realtime-device-tracking-map
+   git clone https://github.com/yourusername/realtime-device-track-practice.git
+   cd realtime-device-track-practice
    ```
 
 2. Install the dependencies:
